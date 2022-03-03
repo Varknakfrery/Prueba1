@@ -1,0 +1,29 @@
+#content {
+    padding: 20px;
+}
+
+#info h2 {
+    font-weight: bold;
+    font-family: 'Smooch Sans', sans-serif;
+}
+
+#Images img {
+    width: 200px;
+}
+
+#name {
+    width: 250px;
+}
+
+#email {
+    width: 350px;
+}
+
+#contacto {
+    padding: 20px;
+}
+
+#extra {
+    width: 350px;
+    
+}
